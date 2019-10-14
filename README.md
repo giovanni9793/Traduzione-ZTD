@@ -27,6 +27,6 @@ Progetto di traduzione del porting PC di Zaro Time Dilemma.
 
 ### Upload dei file modificati (tradotti)
 
--Aprire il terminale nella cartella dove c'é il file modificato;
+-Aprire il terminale, come da sezione precedente, nella cartella dove c'é il file modificato;
 
 -Scrivere 'git add [Nome del file]', 'git commit -m "[Nome significativo tipo: Tradotta mappa 1° piano]"' e 'git push', quindi mettere nome utente e password di github quando richieste.
