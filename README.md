@@ -4,13 +4,14 @@ Progetto di traduzione del porting PC di Zaro Time Dilemma.
 #Prerequisiti
 -Avere un account GitHub;
 -Avere git installato sul pc:
+
     Windows: 
     -Scaricare git dal seguente indirizzo:https://git-scm.com/download/win;
     -Premere "Next" finché non viene chiesto l'editor predefinito (personalmente consiglio "Sublime Text");
     -Premere "Next" finché non parte l'installazione di Git.
     
     Linux:
-    -Scaricate git col vostro gestore pacchetti (Ubuntu e derivate: sudo apt-get install git; Archlinux e derivate: sudo pacman -S git)
+    -Scaricate git col vostro gestore pacchetti (Ubuntu e derivate: sudo apt-get install git; Archlinux e derivate: sudo pacman -S git).
     
 #Istruzioni
 ##Creazione cartella (solo prima volta)
