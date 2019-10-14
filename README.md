@@ -25,7 +25,7 @@ Progetto di traduzione del porting PC di Zaro Time Dilemma.
 
 -Settare le credenziali con 'git config --global user.name "[nome che volete]"' e 'git config --global user.email [email di github]', senza gli apostrofi e le parentesi quadre;
 
-### Upload dei file modificati (tradotti
+### Upload dei file modificati (tradotti)
 
 -Aprire il terminale nella cartella dove c'é il file modificato;
 
