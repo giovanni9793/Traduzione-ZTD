@@ -21,7 +21,7 @@ Progetto di traduzione del porting PC di Zaro Time Dilemma.
 
 -Creare una cartella nella quale lavorare;
 
--Aprire il terminale in quella cartella (Windows: tasto destro->"Git Bash Here"; Linux: avviare terminale e digitare "cd [percorso della cartella precedente creata (ps: va bene anche trascinare la cartella nel terminale)]" senza le parente quadre);
+-Aprire il terminale in quella cartella (Windows: tasto destro->"Git Bash Here"; Linux: avviare terminale e digitare "cd [percorso della cartella precedentemente creata (ps: va bene anche trascinare la cartella nel terminale)]" senza le parentesi quadre);
 
 -Settare le credenziali con 'git config --global user.name "[nome che volete]"' e 'git config --global user.email [email di github]', senza gli apostrofi e le parentesi quadre;
 
@@ -29,4 +29,4 @@ Progetto di traduzione del porting PC di Zaro Time Dilemma.
 
 -Aprire il terminale nella cartella dove c'é il file modificato;
 
--Scrivere 'git commit -am "[Nome significativo tipo: Tradotta mappa 1° piano]"' e 'git push', quindi mettere nome utente e password di github quando richieste.
+-Scrivere 'git add [Nome del file]', 'git commit -m "[Nome significativo tipo: Tradotta mappa 1° piano]"' e 'git push', quindi mettere nome utente e password di github quando richieste.
