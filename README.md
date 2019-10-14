@@ -1,2 +1,23 @@
 # Traduzione-ZTD
 Progetto di traduzione del porting PC di Zaro Time Dilemma.
+
+#Prerequisiti
+-Avere un account GitHub;
+-Avere git installato sul pc:
+    Windows: 
+    -Scaricare git dal seguente indirizzo:https://git-scm.com/download/win;
+    -Premere "Next" finché non viene chiesto l'editor predefinito (personalmente consiglio "Sublime Text");
+    -Premere "Next" finché non parte l'installazione di Git.
+    
+    Linux:
+    -Scaricate git col vostro gestore pacchetti (Ubuntu e derivate: sudo apt-get install git; Archlinux e derivate: sudo pacman -S git)
+    
+#Istruzioni
+##Creazione cartella (solo prima volta)
+-Creare una cartella nella quale lavorare;
+-Aprire il terminale in quella cartella (Windows: tasto destro->"Git Bash Here"; Linux: avviare terminale e digitare "cd [percorso della cartella precedente creata (ps: va bene anche trascinare la cartella nel terminale)]" senza le parente quadre);
+-Settare le credenziali con 'git config --global user.name "[nome che volete]"' e 'git config --global user.email [email di github]', senza gli apostrofi e le parentesi quadre;
+
+##Upload dei file modificati (tradotti)
+-Aprire il terminale nella cartella dove c'é il file modificato;
+-Scrivere 'git commit -am "[Nome significativo tipo: Tradotta mappa 1° piano]"' e 'git push', quindi mettere nome utente e password di github quando richieste.
