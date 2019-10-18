@@ -1,5 +1,5 @@
 # Traduzione-ZTD
-Progetto di traduzione del porting PC di Zaro Time Dilemma.
+Progetto di traduzione del porting PC di Zero Time Dilemma.
 
 ## Prerequisiti
 
