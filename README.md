@@ -23,7 +23,7 @@ Progetto di traduzione del porting PC di Zero Time Dilemma.
 
 -Aprire il terminale in quella cartella (Windows: tasto destro->"Git Bash Here"; Linux: avviare terminale e digitare "cd [percorso della cartella precedentemente creata (ps: va bene anche trascinare la cartella nel terminale)]" senza le parentesi quadre);
 
--Scrivere 'git clone https://github.com/giovanni9793/Traduzione-ZTD';
+-Scrivere 'git clone https://github.com/giovanni9793/Traduzione-ZTD' e 'cd ./Traduzione-ZTD';
 
 -Settare le credenziali con 'git config --global user.name "[nome che volete]"' e 'git config --global user.email [email di github]', senza gli apostrofi e le parentesi quadre.
 
