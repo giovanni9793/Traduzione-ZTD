@@ -53,14 +53,23 @@ Scegliete la modalità che più vi aggrada per la configurazione e l'invio:
 #### Creazione cartella (solo prima volta)
 
 -Scaricare "Gitkraken" dal seguente indirizzo: https://www.gitkraken.com/;
+
 -Avviare "Gitkrake";
+
 -Effettuare login tramite "Github" e seguire le relative istruzioni;
+
 -Cliccare sul pulsante "Clone a repo" situato a sinistra;
+
 -Cliccare sul pulsante "Browser" e scegliere una cartella nella quale inserire la repo;
+
 -In "URL" incollare il seguente indirizzo: https://github.com/giovanni9793/Traduzione-ZTD.git ;
+
 -(Opzionale) Rinominare a piacere il full path (nome della cartella in cui saranno scaricati i files);
+
 -Cliccare su "Clone the repo!";
+
 -Aspettare messaggio in alto e quindi cliccare su "Open now".
+
 
 #### Upload dei file modificati (tradotti)
 
