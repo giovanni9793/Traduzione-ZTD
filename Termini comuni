@@ -18,6 +18,8 @@ Transporter room = Sala dei trasporti
 manufacturing = Fabbrica
 TRASH DISPOSAL ROOM = Sala di smartimento rifiuti
 locker room = Spogliatoio
+Ward = reparto
+Rec Room = sala giochi
 
 Execution c-d-q = Condanna c-d-q
 Poison = Veleno
